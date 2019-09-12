@@ -73,3 +73,5 @@ if (isset($_POST['Pilih'])) {
         echo"<center><h1><b>MOHON MAAF ANDA TIDAK DITERIMA DENGAN NILAI $nilai</b></h1></center>";
     }
 }
+
+?>
